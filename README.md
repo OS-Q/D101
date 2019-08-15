@@ -1,17 +1,20 @@
-﻿# [显示标签](https://github.com/OS-Q/D274)
+﻿# [SUB1G射频](https://github.com/OS-Q/D105)
 [![sites](OS-Q/qitas.png)](http://www.OS-Q.com)
-#### 归属离线显示：[W40](https://github.com/OS-Q/W40)
+#### 归属aduino：[W15](https://github.com/OS-Q/W15)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
-Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
-## [节点描述](https://github.com/OS-Q/D274/wiki)
 
-显示标签用于有限显示身份数据
+Edge-Q -> Q[4] -> M[12] -> W[52] -> D[365]
 
-### [平台资源](https://github.com/OS-Q/D274)
+### [设备描述](https://github.com/OS-Q/D105/wiki) 
+
+短距射频通信外设
+
+### [设备资源](https://github.com/OS-Q/D105) 
 
 * [文档](docs/)
 * [资源](src/)
+* [示例](examples/)
 
-### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/Edge/D274)
-####  2019-6-18
 
+### [OS-Q : Open Solution & Open Source](http://www.OS-Q.com/D105)
+####  2019-8-12
